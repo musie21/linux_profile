@@ -1,6 +1,6 @@
 <!-- Hero Section -->
   
-# Ì±ãÌøΩ **Howdy!**
+## **Howdy!**
 ## My name is Musie, but you can call me Musay!
 ### **Linux System Administrator | Automation | RHEL | Ansible | Bash | Cloud Infrastructure**
 
@@ -10,12 +10,12 @@
 
 ---
 
-# Ì±®ÌøΩ‚ÄçÌ≤ª **About**
+# **About**
 Certified Linux System Administrator focused on Red Hat‚Äìbased systems, automation, and infrastructure engineering. Skilled in system administration, troubleshooting, configuration management, and secure operations. Driven by a strong commitment to continuous learning, documentation, and operational excellence.
 
 ---
 
-# Ìª†Ô∏è **Tech Stack**
+# **Tech Stack**
 <div align="center">
 
 <!-- OS -->
@@ -48,7 +48,7 @@ Certified Linux System Administrator focused on Red Hat‚Äìbased systems, automat
 
 ---
 
-# Ì∑∞ **Certifications**  
+# **Certifications**  
 <div align="center">
 
 <!-- RHCSA -->
@@ -65,11 +65,11 @@ Certified Linux System Administrator focused on Red Hat‚Äìbased systems, automat
 
 ---
 
-# Ì≥Ç **Highlighted Projects**
+# **Highlighted Projects**
 
 > Completed Projects:
 
-### Ì¥π **SysAdmin Ticket Log**
+### **SysAdmin Ticket Log**
 Detailed documentation for my resolved tickets regarding Linux system administration, automation, networking, security hardening, DevOps tooling, monitoring, cloud, and configuration management. Some info has been redacted to prevent network exposure.
 
 [![Sysadmin Ticket Log](https://img.shields.io/badge/‚û§_Click_To_View_Tickets-blue?style=for-the-badge&logo=)]
@@ -77,7 +77,7 @@ Detailed documentation for my resolved tickets regarding Linux system administra
 
 ---
 
-# Ì¥• **Currently Working On**
+# **Currently Working On**
 - Strengthening Bash scripting for automation Ansible tasks on **[bashtothefuture](https://github.com/jordanhall-it/bashtothefuture)** (collaborator)
 - AWS Cloud projects to prepare for ***AWS Certified Cloud Practitioner*** exam
 - Advanced Ansible modules & roles
@@ -89,14 +89,14 @@ Detailed documentation for my resolved tickets regarding Linux system administra
 
 <!-- Start of Pause
 
-# Ì≥ä **GitHub Metrics**
+# **GitHub Metrics**
 
 <div align="center">
 
-### **Ì¥• Activity Overview**
+### **Activity Overview**
 <img src="https://github-readme-stats.vercel.app/api?username=justintimejlew&show_icons=true&hide_border=true&theme=tokyonight" height="165"/>
 
-### **Ì≥à Most Used Technologies**
+### **Most Used Technologies**
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justintimejlew&layout=compact&hide_border=true&theme=tokyonight" height="165"/>
 
 ### **‚ö° Contribution Graph**
