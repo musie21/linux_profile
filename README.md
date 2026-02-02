@@ -72,8 +72,7 @@ Certified Linux System Administrator focused on Red Hatâ€“based systems, automat
 ### í´¹ **SysAdmin Ticket Log**
 Detailed documentation for my resolved tickets regarding Linux system administration, automation, networking, security hardening, DevOps tooling, monitoring, cloud, and configuration management. Some info has been redacted to prevent network exposure.
 
-[![Sysadmin Ticket Log](https://img.shields.io/badge/âž¤_Click_To_View_Tickets-blue?style=for-the-badge&logo=)](https://github.com/justintimejlew/sysadmin-ticket-log#sysadmin-ticket-log)
-
+[![Sysadmin Ticket Log](https://img.shields.io/badge/âž¤_Click_To_View_Tickets-blue?style=for-the-badge&logo=)]
 
 
 ---
