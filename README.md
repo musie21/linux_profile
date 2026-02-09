@@ -78,8 +78,8 @@ Detailed documentation for my resolved tickets regarding Linux system administra
 ---
 
 # **Currently Working On**
-- Strengthening Bash scripting for automation Ansible tasks on **[bashtothefuture](https://github.com/jordanhall-it/bashtothefuture)** (collaborator)
-- AWS Cloud projects to prepare for ***AWS Certified Cloud Practitioner*** exam
+- Strengthening Bash scripting for automation Ansible tasks
+- Azure Cloud projects to prepare for ***Azure administrator*** exam
 - Advanced Ansible modules & roles
 - Building a reproducible homelab with GitOps workflows
 - Preparing for ***Red Hat Certified Engineer*** certification
