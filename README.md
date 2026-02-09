@@ -72,7 +72,7 @@ Certified Linux System Administrator focused on Red Hat–based systems, automat
 ### **SysAdmin Ticket Log**
 Detailed documentation for my resolved tickets regarding Linux system administration, automation, networking, security hardening, DevOps tooling, monitoring, cloud, and configuration management. Some info has been redacted to prevent network exposure.
 
-[![Sysadmin Ticket Log](https://img.shields.io/badge/➤_Click_To_View_Tickets-blue?style=for-the-badge&logo=)]
+[![Sysadmin Ticket Log](https://img.shields.io/badge/➤_Click_To_View_Tickets-blue?style=for-the-badge&logo=)](https://github.com/musie21/System_Admin_Project/blob/main/Internship%20Reference%202922ecf17929809a8988ff15d71ffa6c.md)
 
 
 ---
