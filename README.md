@@ -1,6 +1,6 @@
 <!-- Hero Section -->
   
-## **Howdy!**
+## **Hi!**
 ## My name is Musie, but you can call me Musay!
 ### **Linux System Administrator | Automation | RHEL | Ansible | Bash | Cloud Infrastructure**
 
